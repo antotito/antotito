@@ -1,22 +1,22 @@
-# Hello [👋](https://patorjk.com/software/taag/#p=testall&f=Dancing%20Font&t=Ascii), I'm [Your Name]
+# Hello [👋](https://patorjk.com/software/taag/#p=testall&f=Dancing%20Font&t=Ascii), I'm Antonia Duque
 
 ```                                                                                     
-  /$$$$$$                      /$$ /$$
- /$$__  $$                    |__/|__/
-| $$  \ $$  /$$$$$$$  /$$$$$$$ /$$ /$$
-| $$$$$$$$ /$$_____/ /$$_____/| $$| $$
-| $$__  $$|  $$$$$$ | $$      | $$| $$
-| $$  | $$ \____  $$| $$      | $$| $$
-| $$  | $$ /$$$$$$$/|  $$$$$$$| $$| $$
-|__/  |__/|_______/  \_______/|__/|__/
+
+                 _        
+     /\         | |       
+    /  \   _ __ | |_ ___  
+   / /\ \ | '_ \| __/ _ \ 
+  / ____ \| | | | || (_) |
+ /_/    \_\_| |_|\__\___/ 
+                                     
+                                     
                                       
 ```
 
 <br>
 
 ## 🚀 About Me
-I have a great passion for [mention your professional interests] and a strong curiosity for [specific fields like web development, graphic design, medicine, etc.].  
-I'm always eager to learn and improve my skills. This is my portfolio where I'll share my projects and progress.  
+I'm a someone who loves sing and be in front of a camara, I have good public speaking skills.
 
 > [!IMPORTANT]
 > Key information users need to know to achieve their goal.
